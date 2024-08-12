@@ -111,7 +111,7 @@ afterEvaluate {
         repositories {
             maven {
             //    name = "github"
-                url = uri("https://maven.pkg.github.com/expertstack-studios/AndroidSCSampleLib")
+                url = uri("https://maven.pkg.github.com/rahuljadhavthoughtctl/AndroidSCSampleLib")
                 credentials {
                     username = project.findProperty("gpr.user") as String? ?: System.getenv("GITUSERNAME")
                     password = project.findProperty("gpr.token") as String? ?: System.getenv("TOKEN")
