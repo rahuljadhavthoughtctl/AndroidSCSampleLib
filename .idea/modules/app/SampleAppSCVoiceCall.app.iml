@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="ModuleClassLoaderOverlays">
+    <paths>
+      <option value="/var/folders/zj/s6dk32pj7l5ccnybgs813vj40000gn/T/overlay16640475761001371354" />
+      <option value="/var/folders/zj/s6dk32pj7l5ccnybgs813vj40000gn/T/overlay3922718648137687649" />
+      <option value="/var/folders/zj/s6dk32pj7l5ccnybgs813vj40000gn/T/overlay9198855965070321365" />
+      <option value="/var/folders/zj/s6dk32pj7l5ccnybgs813vj40000gn/T/overlay18218061457125906646" />
+      <option value="/var/folders/zj/s6dk32pj7l5ccnybgs813vj40000gn/T/overlay8088013388873169698" />
+    </paths>
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="2007cb02-b7a2-44c2-a7df-e1501c9b1a1b" />
+  </component>
+</module>
