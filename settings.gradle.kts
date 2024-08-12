@@ -62,10 +62,10 @@ dependencyResolutionManagement {
 
         // Add your GitHub Packages repository for a public repo
         maven {
-            url = uri("https://maven.pkg.github.com/expertstack-studios/AndroidSCSampleLib")
+            url = uri("https://maven.pkg.github.com/rahuljadhavthoughtctl/AndroidSCSampleLib")
             credentials {
                // println(System.getenv("GITUSERNAME"))
-                username = System.getenv("GITUSERNAME") ?: "expertstack-studios"
+                username = System.getenv("GITUSERNAME") ?: "rahuljadhavthoughtctl"
                 password = System.getenv("TOKEN") ?: "your-github-pat"
             }
         }
